@@ -39,6 +39,6 @@ Experience a free express audit, where we use automated tools to quickly identif
 **Contact us:**
 
 [Telegram message](https://t.me/Crypton_Studio_Dev)
-[E-mail: contact@crypton.studio](contact@crypton.studio)
-[Official website: crypton.studio](mailto:https://crypton.studio/en)
+[E-mail: contact@crypton.studio](mailto:contact@crypton.studio)
+[Official website: crypton.studio](https://crypton.studio/en)
 [Linkedin page](https://www.linkedin.com/company/cryptonstudio/)
